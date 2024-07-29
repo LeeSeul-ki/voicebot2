@@ -11,7 +11,6 @@ charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
 distro==1.9.0
-ffmpeg==1.4
 gitdb==4.0.11
 GitPython==3.1.43
 gTTS==2.5.2
@@ -32,7 +31,6 @@ pandas==2.2.2
 pillow==10.4.0
 protobuf==5.27.2
 pyarrow==17.0.0
-PyAudio==0.2.14
 pydantic==2.8.2
 pydantic_core==2.20.1
 pydeck==0.9.1
